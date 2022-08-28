@@ -7,8 +7,8 @@ import (
 	"github.com/shirou/gopsutil/v3/host"
 	"github.com/shirou/gopsutil/v3/load"
 	"github.com/shirou/gopsutil/v3/mem"
-	"tool/cmd/define"
-	"tool/cmd/util"
+	"ytop/cmd/define"
+	"ytop/cmd/util"
 )
 
 type SysInfo struct {

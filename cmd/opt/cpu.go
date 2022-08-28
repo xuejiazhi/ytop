@@ -5,8 +5,8 @@ import (
 	"github.com/shirou/gopsutil/v3/cpu"
 	"github.com/spf13/cast"
 	"time"
-	"tool/cmd/define"
-	"tool/cmd/util"
+	"ytop/cmd/define"
+	"ytop/cmd/util"
 )
 
 func GetCpuStr() (cpuStr string) {

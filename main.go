@@ -1,6 +1,6 @@
 package main
 
-import "tool/cmd"
+import "ytop/cmd"
 
 func main() {
 	cmd.Run()

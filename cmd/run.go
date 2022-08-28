@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 	"time"
-	"tool/cmd/define"
-	"tool/cmd/opt"
-	"tool/cmd/util"
+	"ytop/cmd/define"
+	"ytop/cmd/opt"
+	"ytop/cmd/util"
 )
 
 var (

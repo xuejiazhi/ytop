@@ -5,7 +5,7 @@ import (
 	"github.com/jedib0t/go-pretty/v6/text"
 	"github.com/spf13/cast"
 	"os"
-	"tool/cmd/sdk/goPrint"
+	"ytop/cmd/sdk/goPrint"
 )
 
 func ShowTable(title string, header []interface{}, data [][]interface{}) {

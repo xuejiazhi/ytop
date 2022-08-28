@@ -5,8 +5,8 @@ import (
 	"github.com/shirou/gopsutil/v3/process"
 	"github.com/spf13/cast"
 	"strings"
-	"tool/cmd/define"
-	"tool/cmd/util"
+	"ytop/cmd/define"
+	"ytop/cmd/util"
 )
 
 type ProcessCommData struct {

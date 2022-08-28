@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/shirou/gopsutil/v3/mem"
 	"github.com/spf13/cast"
-	"tool/cmd/sdk/goPrint"
-	"tool/cmd/util"
+	"ytop/cmd/sdk/goPrint"
+	"ytop/cmd/util"
 )
 
 func (m *Monitor) GetMemUsePercent(memInfo *mem.VirtualMemoryStat) {

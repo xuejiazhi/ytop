@@ -5,9 +5,9 @@ import (
 	"github.com/shirou/gopsutil/v3/disk"
 	"sync/atomic"
 	"time"
-	"tool/cmd/define"
-	"tool/cmd/sdk/goPrint"
-	"tool/cmd/util"
+	"ytop/cmd/define"
+	"ytop/cmd/sdk/goPrint"
+	"ytop/cmd/util"
 )
 
 type Monitor struct {
