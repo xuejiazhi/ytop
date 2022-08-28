@@ -87,7 +87,7 @@ func addMonitorFlags() {
 }
 
 func Run() {
-	var rootCmd = &cobra.Command{Use: "sys_tool"}
+	var rootCmd = &cobra.Command{Use: "ytop"}
 
 	//add cmd flags
 	addPsFlags()
