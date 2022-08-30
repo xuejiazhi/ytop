@@ -5,7 +5,7 @@ A tool for viewing Linux memory CPU disk and process usage
 
 # help
 ```bash
-root@node1:~# top
+root@node1:~# ytop
 Usage:
   ytop [command]
 
@@ -20,3 +20,10 @@ Flags:
 
 Use "ytop [command] --help" for more information about a command.
 ```
+
+# monitor
+```bash
+root@node1:~# ytop monitor
+```
+![Image text](https://github.com/xuejiazhi/ytop/blob/main/img/monitor.png)
+
