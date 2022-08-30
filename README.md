@@ -1,5 +1,6 @@
 # ytop
 A tool for viewing Linux memory CPU disk and process usage
+[![imi License](https://img.shields.io/badge/license-AGPLv3-brightgreen.svg)](https://github.com/xuejiazhi/ytop/blob/main/LICENSE)
 
 # help
 ```bash
