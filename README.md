@@ -22,8 +22,8 @@ Use "ytop [command] --help" for more information about a command.
 ```
 
 # monitor
-### You can view the computer's load, CPU, memory, Swap memory information, 
-### and can display the CPU load is high and memory load is high 15 process information.
+ You can view the computer's load, CPU, memory, Swap memory information,  
+ and can display the CPU load is high and memory load is high 15 process information.
 ```bash
 root@node1:~# ytop monitor
 ```
